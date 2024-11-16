@@ -1,1 +1,2 @@
-this is b
+this is bg
+this is file b not bg
