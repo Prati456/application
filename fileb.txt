@@ -1,2 +1,3 @@
 this is bg
 this is file b not bg
+changedgit add fileb.txt
