@@ -1,2 +1,3 @@
 this is bg
-this is file b not bg
+this is file b
+this is file changes
